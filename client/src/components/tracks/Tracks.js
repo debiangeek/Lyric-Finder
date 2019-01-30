@@ -20,6 +20,7 @@ class Tracks extends Component {
                                         <Track key={item.track.track_id} track={item.track}/>
                                     ))}
                                 </div>
+                                <div className="footer">Copyright 2019 <a className="footerLink" href="https://mike-mcgowan.herokuapps.com">Mike McGowan</a></div>
                             </React.Fragment>              
                         );
                     }
