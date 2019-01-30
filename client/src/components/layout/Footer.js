@@ -11,7 +11,7 @@ class Footer extends Component {
                 <br></br>
                 <div className="footer">
                     Copyright 2019 
-                    <a className="footerLink" href="https://mike-mcgowan.herokuapps.com"> Mike McGowan
+                    <a className="footerLink" href="https://mike-mcgowan.herokuapp.com"> Mike McGowan
                     </a>
                 </div>
             </div>
